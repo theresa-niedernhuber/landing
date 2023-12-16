@@ -1,0 +1,16 @@
+.card {
+border:1px solid rgb(230,230,230);
+width: 200px;
+padding: 20px;
+border-radius: 3px;
+box-shadow: 0px 0px 5px rgba(230,230,230);
+text-align: center;
+}
+
+.card img {
+  width: 150px;
+}
+
+.card p {
+  opacity: .5;
+}
